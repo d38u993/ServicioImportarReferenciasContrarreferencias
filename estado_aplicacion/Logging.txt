@@ -1,0 +1,480 @@
+nov 24, 2021 11:03:23 AM consultas.ConsultasMySQL obtenerTotalRegistrosReferencia
+GRAVE: EN ConsultasMySQL obtenerTotalRegistrosReferencia SQLException 
+
+Column 'RECORDCOUNT' not found. java.sql.SQLException: Column 'RECORDCOUNT' not found. SISTEMA FINALIZADO - L55
+nov 24, 2021 11:08:03 AM consultas.ConsultasMySQL obtenerUltimoIDRefencia
+GRAVE:  EN ConsultasMySQL obtenerUltimoIDRefencia SQLException 
+
+Parameter index out of range (1 > number of parameters, which is 0). java.sql.SQLException: Parameter index out of range (1 > number of parameters, which is 0). SISTEMA FINALIZADO - L84
+nov 24, 2021 11:19:25 AM consultas.ConsultasMySQL obtenerReferenciasNuevas
+GRAVE: EN ConexionMySQL SQLException 
+
+S0022 java.sql.SQLException: Column 'nombreMedico' not found. - L128
+nov 24, 2021 11:27:06 AM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+El índice 1 está fuera de intervalo. S1093 0 - L144
+nov 24, 2021 11:30:10 AM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+El índice 1 está fuera de intervalo. S1093 0 - L159
+nov 24, 2021 12:03:23 PM Propiedades salvarConfiguracion
+GRAVE: EN PROPIEDADES salvarConfiguracion IOException 
+
+properties\configuracion.properties (El sistema no puede encontrar la ruta especificada) java.io.FileNotFoundException: properties\configuracion.properties (El sistema no puede encontrar la ruta especificada)
+nov 24, 2021 1:39:17 PM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0001 8114 - L159
+nov 24, 2021 1:40:41 PM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0001 8114 - L159
+nov 24, 2021 1:46:57 PM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0005 8114 - L159
+nov 24, 2021 1:59:58 PM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+La instrucción no devolvió un conjunto de resultados. null 0 - L159
+nov 24, 2021 2:01:52 PM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0001 8114 - L159
+nov 24, 2021 2:02:54 PM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0001 8114 - L159
+nov 24, 2021 2:06:16 PM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+La instrucción no devolvió un conjunto de resultados. null 0 - L159
+nov 24, 2021 2:12:16 PM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0001 8114 - L159
+nov 24, 2021 2:26:28 PM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0001 8114 - L159
+nov 24, 2021 2:33:22 PM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0001 8114 - L159
+nov 24, 2021 2:39:41 PM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0001 8114 - L159
+nov 24, 2021 2:54:56 PM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0001 8114 - L159
+nov 24, 2021 2:55:39 PM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0001 8114 - L159
+nov 24, 2021 3:01:21 PM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Sintaxis incorrecta cerca de '{'. S0001 102 - L159
+nov 24, 2021 3:05:23 PM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0001 8114 - L159
+nov 24, 2021 3:17:20 PM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+El parámetro @IDPaciente no estaba definido para el procedimiento almacenado CTL_SPMttoCtl_Pacientes. S1093 0 - L159
+nov 24, 2021 3:19:19 PM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0005 8114 - L159
+nov 24, 2021 3:21:48 PM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+El parámetro HablaEspanol no estaba definido para el procedimiento almacenado CTL_SPMttoCtl_Pacientes. S1093 0 - L159
+nov 24, 2021 3:22:27 PM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0005 8114 - L159
+nov 24, 2021 3:34:58 PM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+com.microsoft.sqlserver.jdbc.SQLServerException: El parámetro IDPaciente no estaba definido para el procedimiento almacenado . null 0 - L159
+nov 24, 2021 3:35:41 PM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0001 8114 - L159
+nov 24, 2021 3:38:47 PM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Instrucción INSERT en conflicto con la restricción FOREIGN KEY "FK_CTL_Pacientes_Ctl_Religiones". El conflicto ha aparecido en la base de datos "SIEC_602_HOSPGRALCABOSANLUCAS_20180206", tabla "dbo.Ctl_Religiones", column 'IDReligion'. 23000 547 - L159
+nov 24, 2021 3:43:55 PM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0001 8114 - L159
+nov 24, 2021 3:44:43 PM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0001 8114 - L159
+nov 24, 2021 3:45:13 PM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0005 8114 - L159
+nov 24, 2021 3:45:55 PM Conexion.ConexionSQL2008 desHacerSentencia
+GRAVE: EN CONSULTAS desHacerSentencia SQLException 
+
+El servidor no pudo reanudar la transacción. Descripción: 330000001e. S0001 com.microsoft.sqlserver.jdbc.SQLServerException: El servidor no pudo reanudar la transacción. Descripción: 330000001e. SISTEMA FINALIZADO - L149
+nov 24, 2021 3:46:47 PM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0001 8114 - L159
+nov 24, 2021 3:47:15 PM Conexion.ConexionSQL2008 desHacerSentencia
+GRAVE: EN CONSULTAS desHacerSentencia SQLException 
+
+El servidor no pudo reanudar la transacción. Descripción: 330000001e. S0001 com.microsoft.sqlserver.jdbc.SQLServerException: El servidor no pudo reanudar la transacción. Descripción: 330000001e. SISTEMA FINALIZADO - L149
+nov 24, 2021 3:47:49 PM Conexion.ConexionSQL2008 desHacerSentencia
+GRAVE: EN CONSULTAS desHacerSentencia SQLException 
+
+El servidor no pudo reanudar la transacción. Descripción: 3d0000001e. S0001 com.microsoft.sqlserver.jdbc.SQLServerException: El servidor no pudo reanudar la transacción. Descripción: 3d0000001e. SISTEMA FINALIZADO - L149
+nov 25, 2021 8:12:25 AM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0005 8114 - L159
+nov 25, 2021 8:14:03 AM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0005 8114 - L159
+nov 25, 2021 8:28:31 AM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0001 8114 - L159
+nov 25, 2021 8:33:34 AM Conexion.ConexionSQL2008 desHacerSentencia
+GRAVE: EN CONSULTAS desHacerSentencia SQLException 
+
+El servidor no pudo reanudar la transacción. Descripción: 330000001c. S0001 com.microsoft.sqlserver.jdbc.SQLServerException: El servidor no pudo reanudar la transacción. Descripción: 330000001c. SISTEMA FINALIZADO - L149
+nov 25, 2021 8:34:24 AM Conexion.ConexionSQL2008 desHacerSentencia
+GRAVE: EN CONSULTAS desHacerSentencia SQLException 
+
+El servidor no pudo reanudar la transacción. Descripción: 330000001c. S0001 com.microsoft.sqlserver.jdbc.SQLServerException: El servidor no pudo reanudar la transacción. Descripción: 330000001c. SISTEMA FINALIZADO - L149
+nov 25, 2021 8:35:10 AM Conexion.ConexionSQL2008 desHacerSentencia
+GRAVE: EN CONSULTAS desHacerSentencia SQLException 
+
+El servidor no pudo reanudar la transacción. Descripción: 330000001c. S0001 com.microsoft.sqlserver.jdbc.SQLServerException: El servidor no pudo reanudar la transacción. Descripción: 330000001c. SISTEMA FINALIZADO - L149
+nov 25, 2021 8:50:09 AM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0001 8114 - L159
+nov 25, 2021 8:50:30 AM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0001 8114 - L159
+nov 25, 2021 8:52:00 AM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0001 8114 - L159
+nov 25, 2021 8:52:21 AM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0001 8114 - L159
+nov 25, 2021 8:52:58 AM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0005 8114 - L159
+nov 25, 2021 8:53:24 AM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0005 8114 - L159
+nov 25, 2021 8:53:51 AM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0005 8114 - L159
+nov 25, 2021 8:54:17 AM Conexion.ConexionSQL2008 desHacerSentencia
+GRAVE: EN CONSULTAS desHacerSentencia SQLException 
+
+El servidor no pudo reanudar la transacción. Descripción: 330000001c. S0001 com.microsoft.sqlserver.jdbc.SQLServerException: El servidor no pudo reanudar la transacción. Descripción: 330000001c. SISTEMA FINALIZADO - L149
+nov 25, 2021 8:55:03 AM Conexion.ConexionSQL2008 desHacerSentencia
+GRAVE: EN CONSULTAS desHacerSentencia SQLException 
+
+El servidor no pudo reanudar la transacción. Descripción: 330000001c. S0001 com.microsoft.sqlserver.jdbc.SQLServerException: El servidor no pudo reanudar la transacción. Descripción: 330000001c. SISTEMA FINALIZADO - L149
+nov 25, 2021 9:01:08 AM Conexion.ConexionSQL2008 desHacerSentencia
+GRAVE: EN CONSULTAS desHacerSentencia SQLException 
+
+El servidor no pudo reanudar la transacción. Descripción: 370000001c. S0001 com.microsoft.sqlserver.jdbc.SQLServerException: El servidor no pudo reanudar la transacción. Descripción: 370000001c. SISTEMA FINALIZADO - L160
+nov 25, 2021 9:02:28 AM Conexion.ConexionSQL2008 desHacerSentencia
+GRAVE: EN CONSULTAS desHacerSentencia SQLException 
+
+El servidor no pudo reanudar la transacción. Descripción: 370000001c. S0001 com.microsoft.sqlserver.jdbc.SQLServerException: El servidor no pudo reanudar la transacción. Descripción: 370000001c. SISTEMA FINALIZADO - L160
+nov 25, 2021 9:09:52 AM Conexion.ConexionSQL2008 desHacerSentencia
+GRAVE: EN CONSULTAS desHacerSentencia SQLException 
+
+El servidor no pudo reanudar la transacción. Descripción: 380000001c. S0001 com.microsoft.sqlserver.jdbc.SQLServerException: El servidor no pudo reanudar la transacción. Descripción: 380000001c. SISTEMA FINALIZADO - L160
+nov 25, 2021 9:15:31 AM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+com.microsoft.sqlserver.jdbc.SQLServerException: El servidor no pudo reanudar la transacción. Descripción: 3300000001. null 0 - L159
+nov 25, 2021 9:17:54 AM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+com.microsoft.sqlserver.jdbc.SQLServerException: El servidor no pudo reanudar la transacción. Descripción: 3400000001. null 0 - L159
+nov 25, 2021 9:20:26 AM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+com.microsoft.sqlserver.jdbc.SQLServerException: El servidor no pudo reanudar la transacción. Descripción: 3400000001. null 0 - L159
+nov 25, 2021 9:23:15 AM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+com.microsoft.sqlserver.jdbc.SQLServerException: El servidor no pudo reanudar la transacción. Descripción: 3400000001. null 0 - L159
+nov 25, 2021 9:55:39 AM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0001 8114 - L159
+nov 25, 2021 9:56:24 AM consultas.ConsultasSQL2008R2 grabarPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS obtenerTotalRegistros SQLException 
+
+Error al convertir el tipo de datos nvarchar a datetime. S0005 8114 - L159
+nov 25, 2021 11:51:45 AM Conexion.ConexionMySQL ejecutarConsultaObtener
+GRAVE: EN ConexionMySQL ejecutarConsultaObtener SQLException 
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'FROM `det_referencias_diagnosticos` WHERE `idPaciente` = '180'' at line 1 42000 1064 - L56
+nov 25, 2021 11:53:46 AM Conexion.ConexionMySQL ejecutarConsultaObtener
+GRAVE: EN ConexionMySQL ejecutarConsultaObtener SQLException 
+
+Unknown column 'idPaciente' in 'where clause' 42S22 1054 - L56
+nov 25, 2021 12:29:08 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+La conversión del tipo de datos nvarchar en datetime produjo un valor fuera de intervalo. S0003 com.microsoft.sqlserver.jdbc.SQLServerException: La conversión del tipo de datos nvarchar en datetime produjo un valor fuera de intervalo. SISTEMA FINALIZADO - L83
+nov 25, 2021 12:33:55 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. SISTEMA FINALIZADO - L83
+nov 25, 2021 12:34:34 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. SISTEMA FINALIZADO - L83
+nov 25, 2021 12:37:21 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. SISTEMA FINALIZADO - L83
+nov 25, 2021 12:51:23 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+La conversión del tipo de datos nvarchar en datetime produjo un valor fuera de intervalo. S0003 com.microsoft.sqlserver.jdbc.SQLServerException: La conversión del tipo de datos nvarchar en datetime produjo un valor fuera de intervalo. SISTEMA FINALIZADO - L83
+nov 25, 2021 12:54:47 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. SISTEMA FINALIZADO - L83
+nov 25, 2021 12:57:09 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+El valor no está configurado para el número de parámetro 10. null com.microsoft.sqlserver.jdbc.SQLServerException: El valor no está configurado para el número de parámetro 10. SISTEMA FINALIZADO - L83
+nov 25, 2021 12:58:01 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. SISTEMA FINALIZADO - L83
+nov 25, 2021 1:06:09 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. SISTEMA FINALIZADO - L83
+nov 25, 2021 2:12:13 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. SISTEMA FINALIZADO - L83
+nov 25, 2021 2:29:16 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. SISTEMA FINALIZADO - L83
+nov 25, 2021 2:47:17 PM Conexion.ConexionSQL2008 ejecutarConsultaObtener
+GRAVE:  EN CONEXIÓN ejecutarConsultaObtener SQLException 
+
+Sintaxis incorrecta cerca de '`'. S0001 com.microsoft.sqlserver.jdbc.SQLServerException: Sintaxis incorrecta cerca de '`'. SISTEMA FINALIZADO - L149
+nov 25, 2021 2:51:29 PM Conexion.ConexionSQL2008 ejecutarConsultaObtener
+GRAVE:  EN CONEXIÓN ejecutarConsultaObtener SQLException 
+
+Sintaxis incorrecta cerca de '`'. S0001 com.microsoft.sqlserver.jdbc.SQLServerException: Sintaxis incorrecta cerca de '`'. SISTEMA FINALIZADO - L149
+nov 25, 2021 2:52:08 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. SISTEMA FINALIZADO - L83
+nov 25, 2021 2:55:07 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. SISTEMA FINALIZADO - L83
+nov 25, 2021 2:55:21 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. SISTEMA FINALIZADO - L83
+nov 25, 2021 2:55:47 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. SISTEMA FINALIZADO - L83
+nov 25, 2021 2:56:37 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. SISTEMA FINALIZADO - L83
+nov 25, 2021 2:56:47 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. SISTEMA FINALIZADO - L83
+nov 25, 2021 2:57:42 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. SISTEMA FINALIZADO - L83
+nov 25, 2021 3:28:31 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. SISTEMA FINALIZADO - L83
+nov 26, 2021 1:12:10 PM Conexion.ConexionMySQL ejecutarConsultaObtener
+GRAVE: EN ConexionMySQL ejecutarConsultaObtener SQLException 
+
+Table 'referencia_contrareferencia.det_referencias_diagnosticos refdiag' doesn't exist 42S02 1146 - L61
+nov 26, 2021 1:13:12 PM Conexion.ConexionMySQL ejecutarConsultaObtener
+GRAVE: EN ConexionMySQL ejecutarConsultaObtener SQLException 
+
+Table 'referencia_contrareferencia.det_referencias_diagnosticos refdiag' doesn't exist 42S02 1146 - L61
+nov 26, 2021 1:15:52 PM Conexion.ConexionMySQL ejecutarConsultaObtener
+GRAVE: EN ConexionMySQL ejecutarConsultaObtener SQLException 
+
+You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'ref.id > 0 AND ref.IDUMedicaRef = '00035' AND ref.`IDReferencia` = refDiag.`IDRe' at line 1 42000 1064 - L61
+nov 26, 2021 1:30:59 PM consultas.ConsultasMySQL obtenerReferenciasNuevas
+GRAVE: EN ConexionMySQL SQLException 
+
+S0022 java.sql.SQLException: Column 'idRefeDiag' not found. - L141
+nov 26, 2021 1:33:59 PM consultas.ConsultasMySQL obtenerReferenciasNuevas
+GRAVE: EN ConexionMySQL SQLException 
+
+S0022 java.sql.SQLException: Column '`cMotivoReferencia' not found. - L141
+nov 26, 2021 1:34:53 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Los datos de cadena o binarios se truncarían. 22001 com.microsoft.sqlserver.jdbc.SQLServerException: Los datos de cadena o binarios se truncarían. SISTEMA FINALIZADO - L83
+nov 26, 2021 1:37:28 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Los datos de cadena o binarios se truncarían. 22001 com.microsoft.sqlserver.jdbc.SQLServerException: Los datos de cadena o binarios se truncarían. SISTEMA FINALIZADO - L83
+nov 26, 2021 1:46:10 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Los datos de cadena o binarios se truncarían. 22001 com.microsoft.sqlserver.jdbc.SQLServerException: Los datos de cadena o binarios se truncarían. SISTEMA FINALIZADO - L83
+nov 26, 2021 1:48:51 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Los datos de cadena o binarios se truncarían. 22001 com.microsoft.sqlserver.jdbc.SQLServerException: Los datos de cadena o binarios se truncarían. SISTEMA FINALIZADO - L83
+nov 26, 2021 1:49:05 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Los datos de cadena o binarios se truncarían. 22001 com.microsoft.sqlserver.jdbc.SQLServerException: Los datos de cadena o binarios se truncarían. SISTEMA FINALIZADO - L83
+nov 26, 2021 2:16:57 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Los datos de cadena o binarios se truncarían. 22001 com.microsoft.sqlserver.jdbc.SQLServerException: Los datos de cadena o binarios se truncarían. SISTEMA FINALIZADO - L83
+nov 26, 2021 2:32:05 PM Conexion.ConexionMySQL ejecutarConsultaObtener
+GRAVE: EN ConexionMySQL ejecutarConsultaObtener SQLException 
+
+No value specified for parameter 1 07001 0 - L61
+nov 26, 2021 2:34:55 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. SISTEMA FINALIZADO - L83
+nov 26, 2021 2:35:10 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. SISTEMA FINALIZADO - L83
+nov 26, 2021 2:35:25 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. SISTEMA FINALIZADO - L83
+nov 26, 2021 2:36:15 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. SISTEMA FINALIZADO - L83
+nov 26, 2021 2:39:45 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. SISTEMA FINALIZADO - L83
+nov 26, 2021 2:52:37 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Instrucción INSERT en conflicto con la restricción FOREIGN KEY "FK_Referencias_CTL_Pacientes". El conflicto ha aparecido en la base de datos "SIEC_602_HOSPSALVATIERRA_20180119", tabla "dbo.CTL_Pacientes", column 'IDPaciente'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Instrucción INSERT en conflicto con la restricción FOREIGN KEY "FK_Referencias_CTL_Pacientes". El conflicto ha aparecido en la base de datos "SIEC_602_HOSPSALVATIERRA_20180119", tabla "dbo.CTL_Pacientes", column 'IDPaciente'. SISTEMA FINALIZADO - L83
+nov 26, 2021 2:53:47 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Instrucción INSERT en conflicto con la restricción FOREIGN KEY "FK_Referencias_CTL_Pacientes". El conflicto ha aparecido en la base de datos "SIEC_602_HOSPSALVATIERRA_20180119", tabla "dbo.CTL_Pacientes", column 'IDPaciente'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Instrucción INSERT en conflicto con la restricción FOREIGN KEY "FK_Referencias_CTL_Pacientes". El conflicto ha aparecido en la base de datos "SIEC_602_HOSPSALVATIERRA_20180119", tabla "dbo.CTL_Pacientes", column 'IDPaciente'. SISTEMA FINALIZADO - L83
+nov 26, 2021 2:55:56 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Instrucción INSERT en conflicto con la restricción FOREIGN KEY "FK_Referencias_CTL_Pacientes". El conflicto ha aparecido en la base de datos "SIEC_602_HOSPSALVATIERRA_20180119", tabla "dbo.CTL_Pacientes", column 'IDPaciente'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Instrucción INSERT en conflicto con la restricción FOREIGN KEY "FK_Referencias_CTL_Pacientes". El conflicto ha aparecido en la base de datos "SIEC_602_HOSPSALVATIERRA_20180119", tabla "dbo.CTL_Pacientes", column 'IDPaciente'. SISTEMA FINALIZADO - L83
+nov 26, 2021 2:56:30 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Instrucción INSERT en conflicto con la restricción FOREIGN KEY "FK_Referencias_CTL_Pacientes". El conflicto ha aparecido en la base de datos "SIEC_602_HOSPSALVATIERRA_20180119", tabla "dbo.CTL_Pacientes", column 'IDPaciente'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Instrucción INSERT en conflicto con la restricción FOREIGN KEY "FK_Referencias_CTL_Pacientes". El conflicto ha aparecido en la base de datos "SIEC_602_HOSPSALVATIERRA_20180119", tabla "dbo.CTL_Pacientes", column 'IDPaciente'. SISTEMA FINALIZADO - L83
+nov 26, 2021 2:59:01 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Instrucción INSERT en conflicto con la restricción FOREIGN KEY "FK_Referencias_CTL_Pacientes". El conflicto ha aparecido en la base de datos "SIEC_602_HOSPSALVATIERRA_20180119", tabla "dbo.CTL_Pacientes", column 'IDPaciente'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Instrucción INSERT en conflicto con la restricción FOREIGN KEY "FK_Referencias_CTL_Pacientes". El conflicto ha aparecido en la base de datos "SIEC_602_HOSPSALVATIERRA_20180119", tabla "dbo.CTL_Pacientes", column 'IDPaciente'. SISTEMA FINALIZADO - L83
+nov 26, 2021 3:02:47 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. SISTEMA FINALIZADO - L83
+nov 29, 2021 8:16:42 AM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. SISTEMA FINALIZADO - L83
+nov 29, 2021 8:19:36 AM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. SISTEMA FINALIZADO - L83
+nov 29, 2021 8:21:24 AM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. SISTEMA FINALIZADO - L83
+nov 29, 2021 8:24:49 AM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. SISTEMA FINALIZADO - L83
+nov 29, 2021 8:26:15 AM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. SISTEMA FINALIZADO - L83
+nov 29, 2021 8:30:29 AM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. SISTEMA FINALIZADO - L83
+nov 29, 2021 11:12:36 AM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Referencias'. No se puede insertar una clave duplicada en el objeto 'dbo.Referencias'. SISTEMA FINALIZADO - L83
+nov 29, 2021 12:49:14 PM consultas.ConsultasSQL2008R2 existeReferenciaPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS insertarDomilicioPaciente SQLException 
+
+El índice 3 está fuera de intervalo. S1093 0 - L240
+nov 29, 2021 12:51:07 PM consultas.ConsultasSQL2008R2 existeReferenciaPaciente
+GRAVE: ERROR DE EJECUCIÓN DEL QUERY CONSULTAS insertarDomilicioPaciente SQLException 
+
+El índice 3 está fuera de intervalo. S1093 0 - L240
+nov 30, 2021 2:51:41 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Sintaxis incorrecta cerca de '`'. S0001 com.microsoft.sqlserver.jdbc.SQLServerException: Sintaxis incorrecta cerca de '`'. SISTEMA FINALIZADO - L83
+nov 30, 2021 2:58:29 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Det_DomicilioPacientes'. No se puede insertar una clave duplicada en el objeto 'dbo.Det_DomicilioPacientes'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Det_DomicilioPacientes'. No se puede insertar una clave duplicada en el objeto 'dbo.Det_DomicilioPacientes'. SISTEMA FINALIZADO - L83
+nov 30, 2021 3:13:12 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Det_DomicilioPacientes'. No se puede insertar una clave duplicada en el objeto 'dbo.Det_DomicilioPacientes'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Det_DomicilioPacientes'. No se puede insertar una clave duplicada en el objeto 'dbo.Det_DomicilioPacientes'. SISTEMA FINALIZADO - L83
+nov 30, 2021 3:24:11 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Det_DomicilioPacientes'. No se puede insertar una clave duplicada en el objeto 'dbo.Det_DomicilioPacientes'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Det_DomicilioPacientes'. No se puede insertar una clave duplicada en el objeto 'dbo.Det_DomicilioPacientes'. SISTEMA FINALIZADO - L83
+nov 30, 2021 3:24:51 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Det_DomicilioPacientes'. No se puede insertar una clave duplicada en el objeto 'dbo.Det_DomicilioPacientes'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Det_DomicilioPacientes'. No se puede insertar una clave duplicada en el objeto 'dbo.Det_DomicilioPacientes'. SISTEMA FINALIZADO - L83
+nov 30, 2021 3:25:10 PM Conexion.ConexionSQL2008 ejecutarConsultaModificar
+GRAVE: EN CONEXIÓN ejecutarConsultaModificar SQLException 
+
+Infracción de la restricción PRIMARY KEY 'PK_Det_DomicilioPacientes'. No se puede insertar una clave duplicada en el objeto 'dbo.Det_DomicilioPacientes'. 23000 com.microsoft.sqlserver.jdbc.SQLServerException: Infracción de la restricción PRIMARY KEY 'PK_Det_DomicilioPacientes'. No se puede insertar una clave duplicada en el objeto 'dbo.Det_DomicilioPacientes'. SISTEMA FINALIZADO - L83
